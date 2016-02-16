@@ -1,6 +1,6 @@
 {
   "name": "async-array-each",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Async Array.prototype.forEach()",
   "main": "index.js",
   "scripts": {
