@@ -1,0 +1,22 @@
+{
+  "name": "async-array-each",
+  "description": "Async Array.prototype.forEach()",
+  "main": "index.js",
+  "authors": [
+    "Cesar Kastli <cesarkastli@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cizar/async-array-each",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "async-array-each",
+  "version": "1.0.0",
+  "description": "Async Array.prototype.forEach()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cizar/async-array-each.git"
+  },
+  "keywords": [],
+  "author": "Cesar Kastli <cesarkastli@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cizar/async-array-each/issues"
+  },
+  "homepage": "https://github.com/cizar/async-array-each#readme"
+}
