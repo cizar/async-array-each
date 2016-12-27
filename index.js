@@ -10,7 +10,7 @@
       if (index < array.length) {
         iterator(array[index++], loop);
       } else {
-        done();
+        done && done();
       }
     }
     loop();
